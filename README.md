@@ -26,7 +26,7 @@ This project is a React-based online code editor. It provides a user-friendly in
 - **Custom Hooks**: Implements custom hooks for file system management and local storage.
 
 ## Project Structure
-
+```
 src/
 ├── components/
 │ ├── CodeEditor.tsx
@@ -44,26 +44,27 @@ src/
 │ └── index.ts
 ├── App.tsx
 └── index.tsx
+```
 
 ## Getting Started
 
 1. Clone the repository:
-   \`\`\`
+   ```
    git clone https://github.com/yourusername/programiz-clone.git
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`
+   ```
    cd programiz-clone
    npm install
-   \`\`\`
+   ```
 
 3. Run the development server:
-   \`\`\`
+   ```
    npm run dev
-   \`\`\`
+   ```
 
-4. Open your browser and navigate to \`http://localhost:3000\`
+4. Open your browser and navigate to http://localhost:3000
 
 ## Future Enhancements
 
